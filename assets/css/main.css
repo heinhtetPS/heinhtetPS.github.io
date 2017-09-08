@@ -1590,6 +1590,21 @@
 		margin: -10px 0 2.25em 0;
 	}
 
+	.edu {
+		width: 120px;
+		height: 120px;
+	}
+
+	.edulong {
+		width: 120px;
+		height: 150px;
+	}
+
+	.edufat {
+		width: 150px;
+		height: 120px;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #777;
 		font-weight: 700;
@@ -2664,7 +2679,7 @@
 			}
 
 				#header > header {
-					padding: 2em;
+					padding: 2em 2em 1em 2em;
 				}
 
 				#header > footer {
