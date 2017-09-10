@@ -48,6 +48,22 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.first-column {
+		font-size: 40px;
+		width: 70%;
+		height: 166px;
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		list-style: none;
+		line-height: 50px;
+	}
+
+	.first-column > li > .icon {
+		margin-right: 15px;
+		cursor: pointer;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
