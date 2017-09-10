@@ -1574,7 +1574,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: palevioletred !important;
+			color: coral !important;
 		}
 
 	strong, b {
@@ -1741,7 +1741,7 @@
 	}
 
 	header.major h2 {
-		color: palevioletred;
+		color: coral;
 		font-size: 3.5em;
 	}
 
@@ -1804,7 +1804,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: palevioletred;
+			border-color: coral;
 		}
 
 	.select-wrapper {
@@ -1914,7 +1914,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: palevioletred;
+			border-color: coral;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2110,7 +2110,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: palevioletred;
+					background: coral;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2397,7 +2397,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: palevioletred;
+			background-color: coral;
 			color: #ffffff !important;
 		}
 
@@ -2479,7 +2479,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: palevioletred;
+		background-color: coral;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2530,7 +2530,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: white;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2587,7 +2587,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: palevioletred !important;
+							color: coral !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2618,13 +2618,12 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
-		background-position: top right;
+		background-image: url("../../images/bg2.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 22em;
 		width: 100%;
 	}
 
@@ -2866,7 +2865,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: palevioletred;
+						background: coral;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
