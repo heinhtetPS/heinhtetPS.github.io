@@ -59,6 +59,10 @@
 		line-height: 50px;
 	}
 
+	.first-column > li {
+		    margin-left: 20px;
+	}
+
 	.first-column > li > .icon {
 		margin-right: 15px;
 		cursor: pointer;
@@ -2568,6 +2572,7 @@
 
 				#header > footer .icons li a {
 					color: #b6e9dc;
+					cursor: pointer;
 				}
 
 		#header > nav {
