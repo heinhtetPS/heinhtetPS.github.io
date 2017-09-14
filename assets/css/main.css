@@ -2484,6 +2484,10 @@
 				margin-bottom: 0;
 			}
 
+			 .inner > p {
+				margin-top: 2px;
+			}
+
 /* Header */
 
 	#header {
@@ -2646,6 +2650,10 @@
 		display: block;
 		height: 22em;
 		width: 100%;
+	}
+
+	#four > .container > p {
+		min-height: 160px;
 	}
 
 /* Footer */
