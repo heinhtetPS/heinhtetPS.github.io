@@ -1595,7 +1595,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: coral !important;
+			color: #f1916e !important;
 		}
 
 	strong, b {
@@ -1762,7 +1762,7 @@
 	}
 
 	header.major h2 {
-		color: coral;
+		color: #f1916e;
 		font-size: 3.5em;
 	}
 
@@ -1825,7 +1825,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: coral;
+			border-color: #f1916e;
 		}
 
 	.select-wrapper {
@@ -1935,7 +1935,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: coral;
+			border-color: #f1916e;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2131,7 +2131,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: coral;
+					background: #f1916e;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2418,7 +2418,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: coral;
+			background-color: #f1916e;
 			color: #ffffff !important;
 		}
 
@@ -2504,7 +2504,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: coral;
+		background-color: #f1916e;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2594,7 +2594,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px white;
 					display: block;
 					padding: 0;
 				}
@@ -2613,7 +2613,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: coral !important;
+							color: #f1916e !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2649,7 +2649,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 22em;
+		height: 26em;
 		width: 100%;
 	}
 
@@ -2895,7 +2895,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: coral;
+						background: #f1916e;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
